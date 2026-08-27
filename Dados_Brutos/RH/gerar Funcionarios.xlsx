@@ -1,0 +1,103 @@
+```csv
+FuncionarioID,Nome,Cargo,Departamento,DataAdmissao,Salario,Cidade,Estado,Status
+1,Ana Beatriz Souza,Analista de RH,RH,2021-03-15,4200.00,Londrina,PR,Ativo
+2,Carlos Eduardo Lima,Desenvolvedor .NET,TI,2022-07-11,7800.00,Curitiba,PR,Ativo
+3,Mariana Alves Costa,Analista Financeiro,Financeiro,2020-01-20,4800.00,Maringá,PR,Ativo
+4,Rafael Martins,Consultor Comercial,Comercial,2023-05-08,5200.00,Ponta Grossa,PR,Ativo
+5,Juliana Ferreira,Analista de Marketing,Marketing,2021-09-13,4600.00,Cascavel,PR,Ativo
+6,Bruno Henrique,Analista de Logística,Logística,2022-02-17,4500.00,Foz do Iguaçu,PR,Ativo
+7,Patrícia Gomes,Coordenadora de RH,RH,2020-06-01,7200.00,Londrina,PR,Ativo
+8,Diego Oliveira,Analista de Sistemas,TI,2024-01-22,6500.00,Curitiba,PR,Ativo
+9,Fernanda Ribeiro,Contadora,Financeiro,2021-11-05,6100.00,Maringá,PR,Ativo
+10,Gustavo Santos,Executivo de Vendas,Comercial,2023-03-27,6800.00,Guarapuava,PR,Ativo
+11,Renata Carvalho,Especialista de Marketing,Marketing,2020-08-10,6500.00,Curitiba,PR,Ativo
+12,Lucas Almeida,Coordenador de Logística,Logística,2021-04-19,7000.00,Ponta Grossa,PR,Ativo
+13,Camila Rocha,Assistente de RH,RH,2025-02-03,3200.00,Cascavel,PR,Ativo
+14,André Luiz,Desenvolvedor Backend,TI,2023-10-16,8200.00,Londrina,PR,Ativo
+15,Priscila Mendes,Analista Financeiro,Financeiro,2022-06-06,4900.00,Curitiba,PR,Ativo
+16,Thiago Nunes,Gerente Comercial,Comercial,2020-03-09,10500.00,Maringá,PR,Ativo
+17,Carolina Freitas,Social Media,Marketing,2024-04-15,3900.00,Londrina,PR,Ativo
+18,Marcelo Castro,Assistente de Logística,Logística,2025-01-13,3100.00,Cascavel,PR,Ativo
+19,Amanda Martins,Analista de Departamento Pessoal,RH,2022-09-01,5100.00,Ponta Grossa,PR,Ativo
+20,João Pedro Silva,Desenvolvedor Frontend,TI,2021-07-12,7200.00,Curitiba,PR,Ativo
+21,Beatriz Cardoso,Analista de Controladoria,Financeiro,2023-02-06,5700.00,Londrina,PR,Ativo
+22,Felipe Souza,Representante Comercial,Comercial,2024-08-19,4300.00,Foz do Iguaçu,PR,Ativo
+23,Isabela Moraes,Analista de Marketing,Marketing,2022-01-24,4700.00,Maringá,PR,Ativo
+24,Daniel Pereira,Supervisor de Logística,Logística,2020-10-05,5900.00,Guarapuava,PR,Ativo
+25,Letícia Ramos,Analista de Recrutamento,RH,2023-06-12,4500.00,Curitiba,PR,Ativo
+26,Victor Hugo,Analista de Infraestrutura,TI,2021-12-01,6900.00,Ponta Grossa,PR,Ativo
+27,Sabrina Lopes,Tesoureira,Financeiro,2024-02-26,5200.00,Cascavel,PR,Ativo
+28,Henrique Dias,Consultor de Vendas,Comercial,2022-05-16,5100.00,Londrina,PR,Ativo
+29,Natália Fernandes,Coordenadora de Marketing,Marketing,2020-07-20,7600.00,Curitiba,PR,Ativo
+30,Roberto Vieira,Analista de Transportes,Logística,2023-09-04,4800.00,Maringá,PR,Ativo
+31,Vanessa Martins,Coordenadora de RH,RH,2021-01-11,7400.00,Cascavel,PR,Ativo
+32,Matheus Costa,Desenvolvedor Full Stack,TI,2025-03-10,8500.00,Curitiba,PR,Ativo
+33,Laura Teixeira,Analista Financeiro,Financeiro,2022-11-07,5000.00,Londrina,PR,Ativo
+34,Eduardo Barbosa,Gerente de Vendas,Comercial,2020-05-18,11200.00,Maringá,PR,Ativo
+35,Gabriela Pinto,Analista de Conteúdo,Marketing,2023-01-30,4300.00,Ponta Grossa,PR,Ativo
+36,Alexandre Mendes,Supervisor de Operações,Logística,2021-08-23,6100.00,Foz do Iguaçu,PR,Ativo
+37,Simone Araújo,Analista de Benefícios,RH,2024-06-03,4400.00,Guarapuava,PR,Ativo
+38,Leonardo Souza,Engenheiro de Software,TI,2020-09-14,9800.00,Curitiba,PR,Ativo
+39,Paula Cristina,Analista Contábil,Financeiro,2021-05-10,5300.00,Cascavel,PR,Ativo
+40,Murilo Santos,Executivo Comercial,Comercial,2023-11-20,6200.00,Londrina,PR,Ativo
+41,Cláudia Oliveira,Gerente de Marketing,Marketing,2020-02-17,10800.00,Curitiba,PR,Ativo
+42,Igor Rodrigues,Analista de Estoque,Logística,2022-03-21,4100.00,Maringá,PR,Ativo
+43,Débora Lima,Assistente Administrativo,RH,2025-05-05,3000.00,Ponta Grossa,PR,Ativo
+44,Renan Carvalho,DevOps Engineer,TI,2022-10-10,9000.00,Curitiba,PR,Ativo
+45,Luciana Alves,Coordenadora Financeira,Financeiro,2021-06-14,7800.00,Londrina,PR,Ativo
+46,Samuel Rocha,Supervisor Comercial,Comercial,2024-03-18,7200.00,Cascavel,PR,Ativo
+47,Manuela Reis,Analista de SEO,Marketing,2023-07-03,4700.00,Maringá,PR,Ativo
+48,Paulo Henrique,Analista de Logística,Logística,2020-11-09,4600.00,Guarapuava,PR,Ativo
+49,Eliane Martins,Analista de RH,RH,2022-04-04,4300.00,Foz do Iguaçu,PR,Ativo
+50,Diego Ferreira,Arquiteto de Software,TI,2021-02-15,12500.00,Curitiba,PR,Ativo
+51,Raquel Souza,Analista de Custos,Financeiro,2023-04-24,5500.00,Londrina,PR,Ativo
+52,Anderson Lima,Consultor Comercial,Comercial,2022-08-08,5000.00,Ponta Grossa,PR,Ativo
+53,Caroline Silva,Designer,Marketing,2024-07-15,4500.00,Cascavel,PR,Ativo
+54,Marcos Vinícius,Coordenador de Logística,Logística,2020-04-06,6800.00,Maringá,PR,Ativo
+55,Adriana Costa,Especialista em RH,RH,2021-10-18,6700.00,Curitiba,PR,Ativo
+56,João Vitor,Analista de Segurança da Informação,TI,2025-01-27,7600.00,Londrina,PR,Ativo
+57,Mônica Ribeiro,Analista Fiscal,Financeiro,2022-12-05,5900.00,Guarapuava,PR,Ativo
+58,Rodrigo Almeida,Executivo de Contas,Comercial,2023-05-22,6400.00,Foz do Iguaçu,PR,Ativo
+59,Bruna Fernandes,Coordenadora de Comunicação,Marketing,2021-03-29,6900.00,Curitiba,PR,Ativo
+60,Alex Silva,Analista de Distribuição,Logística,2024-09-02,4700.00,Cascavel,PR,Ativo
+61,Tatiane Gomes,Analista de Treinamento,RH,2020-12-14,4900.00,Londrina,PR,Ativo
+62,Caio Augusto,Desenvolvedor C#,TI,2023-08-07,7900.00,Maringá,PR,Ativo
+63,Regina Oliveira,Analista de Planejamento Financeiro,Financeiro,2021-09-27,6200.00,Curitiba,PR,Ativo
+64,Fábio Martins,Gerente de Contas,Comercial,2022-02-28,9300.00,Ponta Grossa,PR,Ativo
+65,Marina Lopes,Analista de Marketing Digital,Marketing,2025-04-07,4800.00,Londrina,PR,Ativo
+66,José Carlos,Supervisor de Armazém,Logística,2023-10-02,5700.00,Foz do Iguaçu,PR,Ativo
+67,Silvia Andrade,Analista de RH,RH,2024-01-08,4100.00,Curitiba,PR,Ativo
+68,Pedro Henrique,Analista de Dados,TI,2022-07-25,7300.00,Cascavel,PR,Ativo
+69,Érica Santos,Contadora,Financeiro,2020-06-22,6000.00,Maringá,PR,Ativo
+70,Willian Souza,Consultor de Negócios,Comercial,2021-11-15,5800.00,Guarapuava,PR,Ativo
+71,Luana Costa,Analista de Branding,Marketing,2023-02-20,5200.00,Ponta Grossa,PR,Ativo
+72,Emerson Vieira,Analista de Logística,Logística,2022-05-30,4400.00,Londrina,PR,Ativo
+73,Denise Martins,Analista de Seleção,RH,2025-06-16,4000.00,Cascavel,PR,Ativo
+74,Arthur Oliveira,Desenvolvedor Backend,TI,2024-03-04,8100.00,Curitiba,PR,Ativo
+75,Silvana Ferreira,Analista Financeiro,Financeiro,2023-09-18,5100.00,Maringá,PR,Ativo
+76,Luiz Fernando,Supervisor de Vendas,Comercial,2020-08-24,7600.00,Londrina,PR,Ativo
+77,Helena Castro,Analista de Marketing,Marketing,2021-04-12,4600.00,Curitiba,PR,Ativo
+78,Marcelo Augusto,Analista de Transportes,Logística,2024-10-07,4900.00,Ponta Grossa,PR,Ativo
+79,Clara Mendes,Coordenadora de RH,RH,2022-06-27,7100.00,Foz do Iguaçu,PR,Ativo
+80,Gabriel Rodrigues,Analista de Sistemas,TI,2020-10-19,6800.00,Curitiba,PR,Ativo
+81,Flávia Nunes,Analista de Controladoria,Financeiro,2025-02-17,5600.00,Londrina,PR,Ativo
+82,Bruno César,Representante Comercial,Comercial,2023-06-26,4600.00,Cascavel,PR,Ativo
+83,Mayara Lima,Social Media,Marketing,2022-09-12,4000.00,Maringá,PR,Ativo
+84,André Felipe,Coordenador de Operações,Logística,2021-07-05,6900.00,Guarapuava,PR,Ativo
+85,Regiane Souza,Analista de Departamento Pessoal,RH,2024-05-20,5100.00,Curitiba,PR,Ativo
+86,Ricardo Alves,Especialista em Cloud,TI,2023-03-13,9500.00,Ponta Grossa,PR,Ativo
+87,Priscila Santos,Analista Contábil,Financeiro,2020-01-13,5200.00,Cascavel,PR,Ativo
+88,Marcelo Ribeiro,Executivo de Vendas,Comercial,2022-11-21,6500.00,Londrina,PR,Ativo
+89,Isadora Martins,Analista de Conteúdo,Marketing,2024-08-05,4400.00,Curitiba,PR,Ativo
+90,Leandro Costa,Analista de Estoque,Logística,2023-01-16,4000.00,Maringá,PR,Desligado
+91,Aline Rocha,Assistente de RH,RH,2021-12-13,3300.00,Foz do Iguaçu,PR,Desligado
+92,Danilo Ferreira,Desenvolvedor .NET,TI,2020-07-06,7500.00,Curitiba,PR,Desligado
+93,Monique Almeida,Analista Financeiro,Financeiro,2022-04-25,4700.00,Londrina,PR,Desligado
+94,Lucas Gabriel,Consultor Comercial,Comercial,2024-02-12,4900.00,Ponta Grossa,PR,Desligado
+95,Jéssica Oliveira,Analista de Marketing,Marketing,2021-05-24,4500.00,Cascavel,PR,Desligado
+96,Evandro Santos,Analista de Logística,Logística,2023-07-17,4300.00,Guarapuava,PR,Desligado
+97,Cristiane Martins,Analista de RH,RH,2025-01-06,4000.00,Maringá,PR,Desligado
+98,Rafael Augusto,Analista de Infraestrutura,TI,2022-10-24,6700.00,Curitiba,PR,Desligado
+99,Carla Regina,Analista Contábil,Financeiro,2020-09-21,5100.00,Londrina,PR,Desligado
+100,Alexandre Costa,Executivo Comercial,Comercial,2024-06-10,6100.00,Cascavel,PR,Desligado
+```
